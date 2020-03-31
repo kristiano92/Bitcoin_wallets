@@ -1,2 +1,2 @@
 # Bitcoin_wallets
-Script to write grouped addresses as wallets to csv file
+Script reads csv file (hashes of transactions, addresses), groups addresses as wallets and writes results to csv file.
